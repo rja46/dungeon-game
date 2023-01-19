@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/dungeon-game/dungeon-game.csproj": {}
+    "C:\\Users\\rjand\\Documents\\GitHub\\dungeon-game\\dungeon-game.csproj": {}
   },
   "projects": {
-    "/workspaces/dungeon-game/dungeon-game.csproj": {
+    "C:\\Users\\rjand\\Documents\\GitHub\\dungeon-game\\dungeon-game.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/dungeon-game/dungeon-game.csproj",
+        "projectUniqueName": "C:\\Users\\rjand\\Documents\\GitHub\\dungeon-game\\dungeon-game.csproj",
         "projectName": "dungeon-game",
-        "projectPath": "/workspaces/dungeon-game/dungeon-game.csproj",
-        "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/dungeon-game/obj/",
+        "projectPath": "C:\\Users\\rjand\\Documents\\GitHub\\dungeon-game\\dungeon-game.csproj",
+        "packagesPath": "C:\\Users\\rjand\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rjand\\Documents\\GitHub\\dungeon-game\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/codespace/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\rjand\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -53,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/dotnet/7.0.101/sdk/7.0.101/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
