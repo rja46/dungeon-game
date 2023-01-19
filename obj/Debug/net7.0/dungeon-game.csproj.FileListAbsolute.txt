@@ -1,0 +1,15 @@
+/workspaces/dungeon-game/bin/Debug/net7.0/dungeon-game
+/workspaces/dungeon-game/bin/Debug/net7.0/dungeon-game.deps.json
+/workspaces/dungeon-game/bin/Debug/net7.0/dungeon-game.runtimeconfig.json
+/workspaces/dungeon-game/bin/Debug/net7.0/dungeon-game.dll
+/workspaces/dungeon-game/bin/Debug/net7.0/dungeon-game.pdb
+/workspaces/dungeon-game/obj/Debug/net7.0/dungeon-game.csproj.AssemblyReference.cache
+/workspaces/dungeon-game/obj/Debug/net7.0/dungeon-game.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/dungeon-game/obj/Debug/net7.0/dungeon-game.AssemblyInfoInputs.cache
+/workspaces/dungeon-game/obj/Debug/net7.0/dungeon-game.AssemblyInfo.cs
+/workspaces/dungeon-game/obj/Debug/net7.0/dungeon-game.csproj.CoreCompileInputs.cache
+/workspaces/dungeon-game/obj/Debug/net7.0/dungeon-game.dll
+/workspaces/dungeon-game/obj/Debug/net7.0/refint/dungeon-game.dll
+/workspaces/dungeon-game/obj/Debug/net7.0/dungeon-game.pdb
+/workspaces/dungeon-game/obj/Debug/net7.0/dungeon-game.genruntimeconfig.cache
+/workspaces/dungeon-game/obj/Debug/net7.0/ref/dungeon-game.dll
