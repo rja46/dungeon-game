@@ -1,13 +1,13 @@
 internal class Player
 {
     Random rng = new Random();
-    private int baseHealth = rng.next(1,21);
+    private int baseHealth;
     private int classHealth;
-    private int baseStrength = rng.next(1,21);
+    private int baseStrength;
     private int classStrength;
-    private int baseSpeed = rng.next(1,21);
+    private int baseSpeed;
     private int classSpeed;
-    private int baseDex = rng.next(1,21);
+    private int baseDex;
     private int classDex;
     private int classID;
     private string[] classNames = {"Warrior", "Assassin", "Mage"};
@@ -20,11 +20,14 @@ internal class Player
         System.Console.Write("Enter your choice: ");
         classID = Convert.ToInt32(Console.ReadLine());
         classID--;
-        display_class();
+        display_character();
     }
     public void display_character()
     {
         System.Console.WriteLine("Class: " + classNames[classID]);
-        System.Console.WriteLine("\n Health: {0}\n Strength: {1}");
+        System.Console.WriteLine("Health: " + baseHealth);
+        System.Console.WriteLine("Strength: " + baseStrength);
+        System.Console.WriteLine("Speed: " + baseSpeed);
+        System.Console.WriteLine("Dex: " + baseDex);
     }
 }
