@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0sfmnwnoYZZK8J68iWFJnlEu/1gQ7Sk0LMhKkjwL5q3zDqKRu3lsxvjuC+7Ex6goknB5HSe1t2UIr1ezVoi9rg==",
+  "dgSpecHash": "vR0dP0r5FKML62tttE8WnK2OGvC9aB0TUlsHpHyDMMUzkW01Oaq5JZMXHG4dwQQne8juwbJa4p0NHBI2xCs+MQ==",
   "success": true,
-  "projectFilePath": "/workspaces/dungeon-game/dungeon-game.csproj",
+  "projectFilePath": "C:\\Users\\rjand\\Documents\\GitHub\\dungeon-game\\dungeon-game.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
