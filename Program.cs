@@ -1,2 +1,2 @@
-﻿Room theRoom = new Room(0);
-theRoom.showRoom();
+﻿Map theMap = new Map(10);
+theMap.showMap();

@@ -1,17 +1,21 @@
 internal class Room
 {
     Random rng = new Random();
-    string[] walls = new string[4];
+    public string[] walls = new string[4];
+    public int x;
+    public int y;
     //n = 0 e = 1 s = 2 w = 3
-    public Room(int entryIndex)
+    public Room(int entryIndex, int x, int y)
     {
+        this.x = x;
+        this.y = y;
         for (int i = 0; i < 4; i++)
         {
             walls[i] = " ";
         }
-        int doors = rng.Next(1,5);
+        int doors = rng.Next(1,3);
         walls[entryIndex] = "D";
-        for (int i = 0; i < doors - 1; i++)
+        for (int i = 0; i < doors; i++)
         {
             walls[i] = "D";
         }
