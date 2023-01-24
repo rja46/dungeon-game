@@ -1,1 +1,2 @@
-﻿Player thePlayer = new Player();
+﻿Room theRoom = new Room(0);
+theRoom.showRoom();
